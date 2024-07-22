@@ -1,0 +1,21 @@
+Các khái niệm cơ bản và các thành phàn trong thư viện ReactJS
+1. ReactJS Basic (3-4 buổi)
+    - Review Es6
+    - Các thành phần cơ bản trong ReactJS
+    - Mini Project (Student Management) - CRUD
+2. Redux (3b)
+    - Các khái niệm cơ bản, các thành phần...
+    - Mini Project (Shopping Cart)
+3. Hook (3b)
+    - Mini Project (Task List / Todo App)
+4. API (1b)
+    - Local API / Mock API (mockapi.io) / apixm.devmaster.vn 
+    - Sử dụng (Call api in ReactJS)
+5. Mock Project (2b - 4b)
+    Hoàn thiện project ReactJS 
+
+* Học liệu: (Shared)
+    - slides
+    - template (html)
+* Nộp bài thực hành trên classroom thông qua link github
+- Bài project (hoàn thiện) - zip / zar
